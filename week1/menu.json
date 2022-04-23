@@ -1,0 +1,172 @@
+{
+    "appetizers" : {
+        "Pigs in a Blanket" :[
+            {
+                "Ingredients" :"hot dogs/american cheese/dinner roll"
+            },
+            {
+                "Description" :"fun, easy, and oh so delicious! we added a little cheese inside our crescent roll. Top it off with some ketchup and you've got a fun"
+            }
+        ],
+        "Spinach Artichoke Dip" :[
+            {
+                "Ingredients" :"bacon slices/chopped spinach/artichoke/garlic herb cheese/parmesan cheese/sour cream/mayo"
+            },
+            {
+                "Description" :"packed with mouth-watering cheese, creamy spinach, artichoke hearts, and loads of delicious bacon"
+            }
+        ],
+        "Crockpot Buffalo Chicken Wings" :[
+            {
+                "Ingredients" :"hot pepper sauce/butter/worcestershire sauce/oregano/onion-garlic powder/chicken wings/"
+            },
+            {
+                "Description" :"Get ready for game day with these Crockpot buffalo chicken wings. They're everyone's favorite bar food, cooked with ease in a slow cooker"
+            }
+        ],
+        "Cream Cheese Fruit Dip" :[
+            {
+                "Ingredients" :"cream cheese/marshmallow cream/orange juice/fresh fruit"
+            },
+            {
+                "Description" :"Bright colors and bold flavors make this fruit dip recipe the perfect treat for snacking"
+            }
+        ]
+    },
+    "cold-sandwiches" : {
+        "Cranberry-Walnut Chicken Salad Sandwich" :[
+            {
+                "Ingredients" :"mayo/dijon mustard/rotisserie chicken/cranberries/walnuts/lettuce/pumpernickel bread"
+            },
+            {
+                "Description" :"Tangy cranberries and crunchy celery pep up the chicken"
+            }
+        ],
+        "Cobb Salad Sub" :[
+            {
+                "Ingredients" :"italian bread/balsamic dressing/baby spinach/deli ham/boiled eggs/bacon strips/gorgonzola cheese/cherry tomatoes"
+            },
+            {
+                "Description" :"With a fresh-baked Italian loaf of bread and so many healthy ingredients, you'll feel good knowing every bite is packed with nutrition."
+            }
+        ],
+        "Cranberry Turkey Wraps" :[
+            {
+                "Ingredients" :"mandarin oranges/tart apple/cranberries/yogurt/mayo/lettuce/deli turkey/mozzarella/pecans"
+            },
+            {
+                "Description" :"Cranberry sauce, cream cheese and tons of veggies make this easy sandwich both tasty and healthy"
+            }
+        ],
+        "Dilly Chickpea Salad Sandwiches" :[
+            {
+                "Ingredients" :"chickpeas/onion/celery/mayo/dijon mustard/dill/paprika/multigran bread"
+            },
+            {
+                "Description" :"This chickpea salad sandwich is super flavorful and contains less fat and cholesterol than a chicken salad"
+            }
+        ]
+    },
+    "hot-sandwiches" : {
+        "Grilled Cheese" :[
+            {
+                "Ingredients" :"white bread/sharp cheese/dijon mustard"
+            },
+            {
+                "Description" :"For the ultimate comfort food, nothing beats a grilled cheese sandwich."
+            }
+        ],
+        "Apple, Cheddar & Turkey Panini" :[
+            {
+                "Ingredients" :"whole grain bread/sliced green apple/sharp cheddar/deli turkey/dijon mustard"
+            },
+            {
+                "Description" :"For something special, this apple, cheddar, and turkey panini is such a simple yet delicious combo."
+            }
+        ],
+        "Hot Ham and Cheese Party Sandwich" :[
+            {
+                "Ingredients" :"Hawaiian-style rolls/deli ham/garlic/Worcestershire sauce"
+            },
+            {
+                "Description" :"If you're looking for a quick, warm, tasty little appetizer for your next gathering, this one’s for you"
+            }
+        ],
+        "Tuna Melt" :[
+            {
+                "Ingredients" :"tuna/celery/mayo/lemon juice/english muffin"
+            },
+            {
+                "Description" :"tuna on a cheesy english muffin"
+            }
+        ]
+    },
+    "desserts" : {
+        "Chocolate Mousse" :[
+            {
+                "Ingredients" :"heavy cream/eggs/sugar/espresso/vanilla/bittersweet chocolate"
+            },
+            {
+                "Description" :"rich, indulgent and not too sweet, with a texture that is both light-and-airy and silky-and-smooth"
+            }
+        ],
+        "Vanilla Cake" :[
+            {
+                "Ingredients" :"pure vanilla/eggs/buttermilk/heavy cream"
+            },
+            {
+                "Description" :"light and fluffy frosting with a vanilla center"
+            }
+        ],
+        "Lemon Meringue Pie" :[
+            {
+                "Ingredients" :"lemon juice/eggs/cream of tarter"
+            },
+            {
+                "Description" :"It's the stuff of dreams: a classic sweet and tart dessert with a foolproof meringue topping"
+            }
+        ],
+        "Strawberry Shortcake" :[
+            {
+                "Ingredients" :"heavy cream/sour cream/vanilla/strawberries/"
+            },
+            {
+                "Description" :"simple and iconic shortcake"
+            }
+        ]
+    },
+    "drinks" : {
+        "Cosmopolitan" :[
+            {
+                "Ingredients" :"vodka/cointreau/cranberry juice/fresh sour mix/lemon"
+            },
+            {
+                "Description" :"a tangy concoction of vodka, triple sec, lime juice and cranberry juice"
+            }
+        ],
+        "Mojito" :[
+            {
+                "Ingredients" :"mint leaves/lime/white sugar/ice/white rum/club soda"
+            },
+            {
+                "Description" :"complimenting summer perfectly with a fresh minty taste"
+            }
+        ],
+        "Mai Tai" :[
+            {
+                "Ingredients" :"rum/Orange Curacao liqueur/almond syrup/lime juice/dark rum"
+            },
+            {
+                "Description" :"a Polynesian-style cocktail that has a fruity tropical taste sweet and vibrant"
+            }
+        ],
+        "Caipirinha" :[
+            {
+                "Ingredients" :"Cachaca (Rum)/lime/sugar"
+            },
+            {
+                "Description" :"Originally based on a remedy to cure Spanish flu"
+            }
+        ]
+    }
+}
