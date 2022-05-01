@@ -1,0 +1,15 @@
+li {
+    margin: 10px;
+    background-color: rgb(61, 16, 226);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+body {
+    width: 50%;
+    margin: auto;
+}
+ol {
+    display: flex;
+    flex-direction: column;
+}
