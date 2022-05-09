@@ -46,11 +46,4 @@ function displayDetails(data)
     newMonster.appendChild(newPokemon);})                            
     }        
     });    
-    }                            
-                        
-                    
-
-
-
-
-
+    }
