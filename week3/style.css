@@ -1,0 +1,21 @@
+    h1{color:rgb(4, 12, 254);
+        border: 5px  solid rgb(255, 4, 4) ;
+        text-align: left;
+        padding: 15px;
+        display: inline-block;}
+
+    h2{color: rgb(255, 242, 0);
+        text-align: left;
+        text-decoration: underline solid rgb(7, 7, 7);}
+
+    ul{text-align: left;
+        color: rgb(251, 251, 251);
+        text-decoration: underline solid rgb(6, 6, 6);}
+    
+        body{background: url("https://wallup.net/wp-content/uploads/2017/11/23/447116-hands-Pok%C3%A9mon-ball-dark-glowing-748x561.jpg") no-repeat center center fixed ;
+                background-size: cover;}
+   
+    div{display: flex;
+        justify-content: center;}
+
+    
