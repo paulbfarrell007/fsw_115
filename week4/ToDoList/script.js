@@ -6,7 +6,11 @@ axios.get("http://api.bryanuniversity.edu/paulfarrell/list")
             const newDiv = document.createElement("div")
                 document.body.appendChild(newDiv)
             
-            const newLabel = document.createElement("label")
+                const newP1 = document.createElement("p")
+                newP1.textContent = "Description: " + response.data[i].description
+                newDiv.appendChild(newP1)
+            
+                const newLabel = document.createElement("label")
                 newLabel.textContent = response.data[i].title
                 newDiv.appendChild(newLabel)             
             
@@ -14,9 +18,7 @@ axios.get("http://api.bryanuniversity.edu/paulfarrell/list")
                 newInputBox.setAttribute("type","checkbox")
                 newDiv.appendChild(newInputBox)               
 
-            const newP1 = document.createElement("p")
-                newP1.textContent = "Description: " + response.data[i].description
-                newDiv.appendChild(newP1)
+            
 
             const newP2 = document.createElement("p")
                 newP2.textContent = "Price: " + response.data[i].price
