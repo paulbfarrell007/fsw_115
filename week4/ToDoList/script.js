@@ -7,11 +7,11 @@ axios.get("http://api.bryanuniversity.edu/paulfarrell/list")
                 document.body.appendChild(newDiv)
             
                 const newP1 = document.createElement("p")
-                newP1.textContent = "Description: " + response.data[i].description
+                newP1.textContent = "Description: " + response.data[i].name
                 newDiv.appendChild(newP1)
             
                 const newLabel = document.createElement("label")
-                newLabel.textContent = response.data[i].title
+                newLabel.textContent = response.data[i].name
                 newDiv.appendChild(newLabel)             
             
             const newInputBox = document.createElement("input")
@@ -21,7 +21,7 @@ axios.get("http://api.bryanuniversity.edu/paulfarrell/list")
             
 
             const newP2 = document.createElement("p")
-                newP2.textContent = "Price: " + response.data[i].price
+                newP2.textContent = "Price: " + response.data[i].name
                 newDiv.appendChild(newP2)
 
         if (response.data[i].completed === true) {
@@ -31,12 +31,5 @@ axios.get("http://api.bryanuniversity.edu/paulfarrell/list")
         }
     })   
     
-.catch()
-            
-
-
-
-
-            /*
-
-            */
+.catch(error => console.log(error))
+ 
