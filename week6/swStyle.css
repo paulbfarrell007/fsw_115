@@ -1,0 +1,18 @@
+    h1{color:rgb(251, 251, 252);
+        border: 5px  solid rgb(255, 4, 4) ;
+        text-align: left;
+        padding: 15px;
+        display: inline-block;}
+
+    h2{color: rgb(255, 242, 0);
+        text-align: left;
+        text-decoration: underline solid rgb(7, 7, 7);}
+
+    ul{text-align: left;
+        color: rgb(251, 251, 251);
+        text-decoration: underline solid rgb(6, 6, 6);}
+            body{background: url("https://preview.redd.it/d8ql17e0m7g51.jpg?width=960&crop=smart&auto=webp&s=65a12cbb267df92b50062f7fce1c9abc6aa08b47") no-repeat center fixed ;
+                background-size: cover;}
+   
+    div{display: flex;
+        justify-content: center;}
