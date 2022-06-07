@@ -1,0 +1,14 @@
+#todoContainer {
+    display: flex;}
+.todoList-card {
+    background-color: green;
+    border: 10px solid black;
+    border-radius: 75px;
+    height: 200px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    font-family: Arial;
+    margin: 30px;}
