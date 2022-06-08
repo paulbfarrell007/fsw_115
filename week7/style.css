@@ -9,14 +9,14 @@ body {
 .mainTitle {
     font-family: 'Arial';
     font-size: 4.6em;
-    background-color: #149706;
+    background-color: rgb(82, 69, 139);
     margin: 0;
     height: 100px;
     color: white;
 }
 .todoForm {
     background-color: rgb(82, 69, 139);
-    border-top: 10px solid #696b7c;
+    
     height: 180px;
 }
 .title {
